@@ -1,0 +1,52 @@
+{
+  "deploy_settings": {
+    "default": {
+      "skill_id": "amzn1.ask.skill.aa470a26-3515-4795-b8c0-024f6e6695b0",
+      "was_cloned": true,
+      "resources": {
+        "manifest": {
+          "eTag": "be980bcb739471ff8761a09a9c838736"
+        },
+        "interactionModel": {
+          "en-US": {
+            "eTag": "b2d956f87df83ada853dbbafd322789f"
+          },
+          "en-CA": {
+            "eTag": "b2d956f87df83ada853dbbafd322789f"
+          },
+          "en-IN": {
+            "eTag": "b2d956f87df83ada853dbbafd322789f"
+          },
+          "en-AU": {
+            "eTag": "b2d956f87df83ada853dbbafd322789f"
+          },
+          "en-GB": {
+            "eTag": "b2d956f87df83ada853dbbafd322789f"
+          }
+        },
+        "lambda": [
+          {
+            "arn": "arn:aws:lambda:us-east-1:471325060569:function:TennisFeeds",
+            "awsRegion": "us-east-1",
+            "functionName": "TennisFeeds",
+            "alexaUsage": [
+              "custom/default"
+            ],
+            "revisionId": "deeac1b1-d2ad-456f-83e1-3f4a1eebf9f3"
+          }
+        ]
+      },
+      "merge": {
+        "manifest": {
+          "apis": {
+            "custom": {
+              "endpoint": {
+                "uri": "arn:aws:lambda:us-east-1:471325060569:function:TennisFeeds"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

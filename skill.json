@@ -1,0 +1,179 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "Get the latest tennis feeds from US OPEN, Australian Open, ATP World Tour, WTA Tennis and ESPN Tennis",
+          "examplePhrases": [
+            "Alexa, Open tennis feeds",
+            "Alexa, Open tennis feeds to play US Open",
+            "Alexa, Open tennis feeds to play favorites"
+          ],
+          "keywords": [
+            "tennis",
+            "feeds",
+            "tennis",
+            "news",
+            "Australian",
+            "Open",
+            "ATP",
+            "World",
+            "Tour",
+            "WTA",
+            "Tennis",
+            "ESPN",
+            "Tennis"
+          ],
+          "name": "Tennis Feeds",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/bdc0588196d44f9d8b0d2f33e295abe6/APP_ICON?versionId=XClWeDgjsX6bGje0Dui8uhorj_rwS2sH&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074498&Signature=2ccKtFoabLSfFZgC8rQf582bq2A%3D",
+          "description": "This skill provides the latest tennis feeds from US OPEN, Australian Open, ATP World Tour, WTA Tennis and ESPN Tennis. You can get the feeds by category, mark a particular category as a favorite, remove favorite, list all supported categories, get more details of a particular feed.\n\nInvocation Name - tennis feeds\nJust say \"Open tennis feeds\" or \"Start tennis feeds\"\n\nTo open the feeds for a particular category\n\nJust say \"Open category {category name}\" or \"Open {category name}\n\nFor example \"Open US Open\"\n\nTo mark a particular category as favorite\n\nJust say \"mark {Category} as favorite\"\n\nfor example \"mark ESPN Tennis as favorite\"\n\nTo Remove a particular category from favorites\n\nJust say \"remove {Category} as favorite\"\n\nfor example \"remove ESPN Tennis as favorite\"\n\nTo get supported categories\nJust say \"list categories\" or \"get category list\"",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/d53de68030c64bdfa0836493b5024b31/APP_ICON_LARGE?versionId=O7IBHmmPxfhx.sONo5utFQ2kKCK6dE_O&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074498&Signature=gA4cf56CMY8gUY9drwuzfwS0hVk%3D"
+        },
+        "en-CA": {
+          "summary": "Get the latest tennis feeds from US OPEN, Australian Open, ATP World Tour, WTA Tennis and ESPN Tennis",
+          "examplePhrases": [
+            "Alexa, Open tennis feeds",
+            "Alexa, Open tennis feeds to play US Open",
+            "Alexa, Open tennis feeds to play favorites"
+          ],
+          "keywords": [
+            "tennis",
+            "feeds",
+            "tennis",
+            "news",
+            "Australian",
+            "Open",
+            "ATP",
+            "World",
+            "Tour",
+            "WTA",
+            "Tennis",
+            "ESPN",
+            "Tennis"
+          ],
+          "name": "Tennis Feeds",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/bdc0588196d44f9d8b0d2f33e295abe6/APP_ICON?versionId=XClWeDgjsX6bGje0Dui8uhorj_rwS2sH&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074498&Signature=2ccKtFoabLSfFZgC8rQf582bq2A%3D",
+          "description": "This skill provides the latest tennis feeds from US OPEN, Australian Open, ATP World Tour, WTA Tennis and ESPN Tennis. You can get the feeds by category, mark a particular category as a favorite, remove favorite, list all supported categories, get more details of a particular feed.\n\nInvocation Name - tennis feeds\nJust say \"Open tennis feeds\" or \"Start tennis feeds\"\n\nTo open the feeds for a particular category\n\nJust say \"Open category {category name}\" or \"Open {category name}\n\nFor example \"Open US Open\"\n\nTo mark a particular category as favorite\n\nJust say \"mark {Category} as favorite\"\n\nfor example \"mark ESPN Tennis as favorite\"\n\nTo Remove a particular category from favorites\n\nJust say \"remove {Category} as favorite\"\n\nfor example \"remove ESPN Tennis as favorite\"\n\nTo get supported categories\nJust say \"list categories\" or \"get category list\"",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/d53de68030c64bdfa0836493b5024b31/APP_ICON_LARGE?versionId=O7IBHmmPxfhx.sONo5utFQ2kKCK6dE_O&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074498&Signature=gA4cf56CMY8gUY9drwuzfwS0hVk%3D"
+        },
+        "en-IN": {
+          "summary": "Get the latest tennis feeds from US OPEN, Australian Open, ATP World Tour, WTA Tennis and ESPN Tennis",
+          "examplePhrases": [
+            "Alexa, Open tennis feeds",
+            "Alexa, Open tennis feeds to play US Open",
+            "Alexa, Open tennis feeds to play favorites"
+          ],
+          "keywords": [
+            "tennis",
+            "feeds",
+            "tennis",
+            "news",
+            "Australian",
+            "Open",
+            "ATP",
+            "World",
+            "Tour",
+            "WTA",
+            "Tennis",
+            "ESPN",
+            "Tennis"
+          ],
+          "name": "Tennis Feeds",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/bdc0588196d44f9d8b0d2f33e295abe6/APP_ICON?versionId=XClWeDgjsX6bGje0Dui8uhorj_rwS2sH&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074498&Signature=2ccKtFoabLSfFZgC8rQf582bq2A%3D",
+          "description": "This skill provides the latest tennis feeds from US OPEN, Australian Open, ATP World Tour, WTA Tennis and ESPN Tennis. You can get the feeds by category, mark a particular category as a favorite, remove favorite, list all supported categories, get more details of a particular feed.\n\nInvocation Name - tennis feeds\nJust say \"Open tennis feeds\" or \"Start tennis feeds\"\n\nTo open the feeds for a particular category\n\nJust say \"Open category {category name}\" or \"Open {category name}\n\nFor example \"Open US Open\"\n\nTo mark a particular category as favorite\n\nJust say \"mark {Category} as favorite\"\n\nfor example \"mark ESPN Tennis as favorite\"\n\nTo Remove a particular category from favorites\n\nJust say \"remove {Category} as favorite\"\n\nfor example \"remove ESPN Tennis as favorite\"\n\nTo get supported categories\nJust say \"list categories\" or \"get category list\"",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/d53de68030c64bdfa0836493b5024b31/APP_ICON_LARGE?versionId=O7IBHmmPxfhx.sONo5utFQ2kKCK6dE_O&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074498&Signature=gA4cf56CMY8gUY9drwuzfwS0hVk%3D"
+        },
+        "en-AU": {
+          "summary": "Get the latest tennis feeds from US OPEN, Australian Open, ATP World Tour, WTA Tennis and ESPN Tennis",
+          "examplePhrases": [
+            "Alexa, Open tennis feeds",
+            "Alexa, Open tennis feeds to play US Open",
+            "Alexa, Open tennis feeds to play favorites"
+          ],
+          "keywords": [
+            "tennis",
+            "feeds",
+            "tennis",
+            "news",
+            "Australian",
+            "Open",
+            "ATP",
+            "World",
+            "Tour",
+            "WTA",
+            "Tennis",
+            "ESPN",
+            "Tennis"
+          ],
+          "name": "Tennis Feeds",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/bdc0588196d44f9d8b0d2f33e295abe6/APP_ICON?versionId=XClWeDgjsX6bGje0Dui8uhorj_rwS2sH&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074498&Signature=2ccKtFoabLSfFZgC8rQf582bq2A%3D",
+          "description": "This skill provides the latest tennis feeds from US OPEN, Australian Open, ATP World Tour, WTA Tennis and ESPN Tennis. You can get the feeds by category, mark a particular category as a favorite, remove favorite, list all supported categories, get more details of a particular feed.\n\nInvocation Name - tennis feeds\nJust say \"Open tennis feeds\" or \"Start tennis feeds\"\n\nTo open the feeds for a particular category\n\nJust say \"Open category {category name}\" or \"Open {category name}\n\nFor example \"Open US Open\"\n\nTo mark a particular category as favorite\n\nJust say \"mark {Category} as favorite\"\n\nfor example \"mark ESPN Tennis as favorite\"\n\nTo Remove a particular category from favorites\n\nJust say \"remove {Category} as favorite\"\n\nfor example \"remove ESPN Tennis as favorite\"\n\nTo get supported categories\nJust say \"list categories\" or \"get category list\"",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/d53de68030c64bdfa0836493b5024b31/APP_ICON_LARGE?versionId=O7IBHmmPxfhx.sONo5utFQ2kKCK6dE_O&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074498&Signature=gA4cf56CMY8gUY9drwuzfwS0hVk%3D"
+        },
+        "en-GB": {
+          "summary": "Get the latest tennis feeds from US OPEN, Australian Open, ATP World Tour, WTA Tennis and ESPN Tennis",
+          "examplePhrases": [
+            "Alexa, Open tennis feeds",
+            "Alexa, Open tennis feeds to play US Open",
+            "Alexa, Open tennis feeds to play favorites"
+          ],
+          "keywords": [
+            "tennis",
+            "feeds",
+            "tennis",
+            "news",
+            "Australian",
+            "Open",
+            "ATP",
+            "World",
+            "Tour",
+            "WTA",
+            "Tennis",
+            "ESPN",
+            "Tennis"
+          ],
+          "name": "Tennis Feeds",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/bdc0588196d44f9d8b0d2f33e295abe6/APP_ICON?versionId=XClWeDgjsX6bGje0Dui8uhorj_rwS2sH&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074498&Signature=2ccKtFoabLSfFZgC8rQf582bq2A%3D",
+          "description": "This skill provides the latest tennis feeds from US OPEN, Australian Open, ATP World Tour, WTA Tennis and ESPN Tennis. You can get the feeds by category, mark a particular category as a favorite, remove favorite, list all supported categories, get more details of a particular feed.\n\nInvocation Name - tennis feeds\nJust say \"Open tennis feeds\" or \"Start tennis feeds\"\n\nTo open the feeds for a particular category\n\nJust say \"Open category {category name}\" or \"Open {category name}\n\nFor example \"Open US Open\"\n\nTo mark a particular category as favorite\n\nJust say \"mark {Category} as favorite\"\n\nfor example \"mark ESPN Tennis as favorite\"\n\nTo Remove a particular category from favorites\n\nJust say \"remove {Category} as favorite\"\n\nfor example \"remove ESPN Tennis as favorite\"\n\nTo get supported categories\nJust say \"list categories\" or \"get category list\"",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/d53de68030c64bdfa0836493b5024b31/APP_ICON_LARGE?versionId=O7IBHmmPxfhx.sONo5utFQ2kKCK6dE_O&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074498&Signature=gA4cf56CMY8gUY9drwuzfwS0hVk%3D"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "No special instruction",
+      "category": "SPORTS_NEWS",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sourceDir": "./lambda/us-east-1_TennisFeeds"
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "locales": {
+        "en-US": {
+          "privacyPolicyUrl": ""
+        },
+        "en-CA": {
+          "privacyPolicyUrl": ""
+        },
+        "en-IN": {
+          "privacyPolicyUrl": ""
+        },
+        "en-AU": {
+          "privacyPolicyUrl": ""
+        },
+        "en-GB": {
+          "privacyPolicyUrl": ""
+        }
+      },
+      "isExportCompliant": true,
+      "containsAds": false,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}
